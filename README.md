@@ -62,7 +62,7 @@ This is the detailed flow of the assistant:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kaymen/AI-telegram-assistant.git
+   git clone https://github.com/AIXerum/AI-telegram-assistant.git
    cd AI-telegram-assistant
    ```
 
@@ -107,4 +107,4 @@ Feel free to fork the repository, create a branch, and submit a pull request if 
 
 ## Contact
 
-For any queries or suggestions, please reach out to [aymenMir1001@gmail.com](mailto:aymenMir1001@gmail.com).
+For any queries or suggestions, please reach out to [richard.z95727@gmail.com](mailto:richard.z95727@gmail.com).
