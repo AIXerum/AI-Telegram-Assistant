@@ -8,8 +8,8 @@ from langchain.tools import BaseTool
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-os.environ["GMAIL_MAIL"] = "a.kerrour0909@gmail.com"
-os.environ["GMAIL_APP_PASSWORD"] = "nrjp wbqk ktfr mmvx"
+os.environ["GMAIL_MAIL"] = "YOUR_GMAIL"
+os.environ["GMAIL_APP_PASSWORD"] = "YOUR_PASSWORD"
 
 class SendEmailInput(BaseModel):
     to: str = Field(description="Email of the recipient")
