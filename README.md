@@ -104,7 +104,3 @@ To interact with the assistant via Telegram, you will need to create a Telegram 
 ## Contribution
 
 Feel free to fork the repository, create a branch, and submit a pull request if you'd like to contribute to the project.
-
-## Contact
-
-For any queries or suggestions, please reach out to [richard.z95727@gmail.com](mailto:richard.z95727@gmail.com).
