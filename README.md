@@ -62,8 +62,8 @@ This is the detailed flow of the assistant:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/AIXerum/AI-telegram-assistant.git
-   cd AI-telegram-assistant
+   git clone https://github.com/AIXerum/AI-Telegram-Assistant.git
+   cd AI-Telegram-Assistant
    ```
 
 2. **Create and activate a virtual environment:**
@@ -100,7 +100,3 @@ To interact with the assistant via Telegram, you will need to create a Telegram 
 ### Usage
 
 - **Communicating with the Assistant**: Simply send a message to your Telegram bot, and the assistant will analyze the message, delegate the task to the appropriate sub-agent, and report back with the results.
-
-## Contribution
-
-Feel free to fork the repository, create a branch, and submit a pull request if you'd like to contribute to the project.
